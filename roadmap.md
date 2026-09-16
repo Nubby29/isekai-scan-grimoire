@@ -7,3 +7,5 @@
 - [x] Local grimoire with rank, element, and date filters
 - [x] Shareable appraisal card export
 - [x] Mobile and desktop verification
+- [x] Redesign Grimoire relic cards as celestial RPG inventory records
+- [x] Verify card layout, image framing, interactions, and bottom-navigation clearance
